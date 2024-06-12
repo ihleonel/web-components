@@ -1,3 +1,3 @@
-import KeywordsField from "./src/Components/AppKeyword"
+import KeywordsField from './src/Components/AppKeyword'
 
-customElements.define('app-keywords-field', KeywordsField)
+window.customElements.define('app-keywords-field', KeywordsField)
